@@ -47,9 +47,9 @@ O projeto apresenta diferentes abordagens, demonstrando a evolução na aplicaç
 
 ## 💻 Como executar
 
-```bash
-python nome_do_arquivo.py
-```
+1. Certifique-se de ter o Python instalado
+2. Baixe a pasta anexada
+3. Abra a pasta com Vscode e execute os códigos desejados
 
 ## 📚 Aprendizado
 
@@ -57,13 +57,6 @@ python nome_do_arquivo.py
 * Aplicação de fórmulas matemáticas
 * Estruturas condicionais
 * Evolução de código
-
-## 🚀 Melhorias futuras
-
-* Criar interface interativa
-* Validar entradas do usuário
-* Transformar em função reutilizável
-* Evoluir para interface gráfica
 
 ## 👨‍💻 Autor
 
